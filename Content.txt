@@ -1,3 +1,7 @@
 Farbpalette
 
 Rot
+Grün
+Blau
+Gelb
+Magenta
