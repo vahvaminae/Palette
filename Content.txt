@@ -1,7 +1,8 @@
 Farbpalette
 
 Rot
-Grün
+Hellrün
+Dunkelgrün
 Blau
 Gelb
 Magenta
